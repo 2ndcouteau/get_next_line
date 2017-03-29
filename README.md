@@ -6,4 +6,4 @@ Return 0 if it's EOF, else return 1.
 
 #Grade
 
-![Grade image](get_next_line_grade.png)
+![Grade image](https://github.com/2ndcouteau/get_next_line/blob/master/get_next_line_grade.tiff)
